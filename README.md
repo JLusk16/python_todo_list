@@ -22,6 +22,7 @@ The application supports the following commands:
 
 - `HELP`: Show the help message with a list of available commands.
 - `ADD [task]`: Add a new task to the list.
+- 'REMOVE' [task_number]: Remove a task by its number.
 - `SHOW`: Display the list of tasks.
 - `EXIT`: Exit the application.
 
